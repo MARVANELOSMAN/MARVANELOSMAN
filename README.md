@@ -3,7 +3,7 @@
 🌱 I’m currently learning Java, database management with SQLite, and improving my algorithm skills on LeetCode.
 
 ### 💻 My LeetCode Progress
-- [LeetCode Stats](https://leetcode.com/u/m3rft_/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/m3rft_)
 
 <!---
 MARVANELOSMAN/MARVANELOSMAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
