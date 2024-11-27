@@ -1,6 +1,8 @@
 👋 Hi, I’m Marvan Elosman
+
 👀 I’m interested in software engineering, graphic design, and database management.
-🌱 I’m currently learning Java, database management with SQLite, and improving my algorithm skills on LeetCode.
+
+🌱 I’m currently learning Java, database management with mySql, and improving my algorithm skills on LeetCode.
 
 ### 💻 My LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/m3rft_)
